@@ -5,6 +5,4 @@ contract bool_types {
     bool isTrue = false;
     bool _false = isTrue;
     bool isVoid;
-
-    
 }
